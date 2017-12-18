@@ -1,2 +1,8 @@
 # DL-playground
-Deep Learning Playground
+Here is my Deep Learning Playground
+
+## MLP from scratch
+
+## All-CNN
+
+## CTC
